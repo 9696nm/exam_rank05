@@ -7,8 +7,8 @@ class vect2
 {
     public:
 
-    int x;
-    int y;
+    int x_;
+    int y_;
 
     vect2();
     vect2(int a,  int b);
